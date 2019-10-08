@@ -23,6 +23,6 @@ public interface Cache {
      * Should return the internal cache order as Integer[].
      * @return Integer[]
      */
-    Integer[] getCacheOrder();
+    Integer getCacheOrder();
 
 }
